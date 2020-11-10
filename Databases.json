@@ -8,7 +8,7 @@
   },
   {
     "Name": "MarittimoV1_0.json",
-    "MinVersion": "1.6",
+    "MinVersion": "1.7",
     "MaxVersion": "None",
     "DateRelease": "2020-10-10",
     "Model": "Marittimo"
