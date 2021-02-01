@@ -1,3 +1,4 @@
 # pas de fichier .tags ou .ctags
 *.*tags
+*.*tags_swap
 *.sh
